@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.9",
+  "release": "0.2.1.10",
   "stage": "alpha",
-  "build": 12,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.9",
-  "notes": "**Security audit and fixes** (docs/SECURITY-AUDIT.md), every fix covered by `tests/security.test.ts`:",
-  "dmg": "Dorn-Modeling-Environment-0.2.1.9.dmg",
-  "sha256": "1da85bca82c5929992c370607a39b51283590983197d8dc09ab58bddefd52109",
-  "sig": "DWCbArc91/QwV2F/zf5fPHVGl1seNvFEWM6gxyLhpUaMhjG+MDna441O785r0IKx7TNz+2fb1vGNQZqy82OcCA==",
-  "released": "2026-11-11T20:19:01.891Z"
+  "build": 13,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.10",
+  "notes": "The product is now **Dorn Systems Modeling Environment**, by **Dorn Modeling** (was Dorn Modeling Environment by Dorn Labs). The app is `Dorn Systems Modeling Environment.app`; installing it replaces the old app and its Desktop shortcut. Your data stays where it is.",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.10.dmg",
+  "sha256": "c06fd1301729f37c78d1f904692e45100c96a11325cec2d8c64652ffc2dd3813",
+  "sig": "Mi0O03Kx1Z53Xbky4Qg5ND/hBidfRCYDycgccGq+6GeKgWPFXZTGBIo6FsV3xuFvd3BRdjsxAyZvyrDMXVOWAQ==",
+  "released": "2026-11-11T22:24:26.987Z"
 }
