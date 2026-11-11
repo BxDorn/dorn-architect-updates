@@ -1,9 +1,11 @@
 {
-  "release": "0.2.1.8",
+  "release": "0.2.1.9",
   "stage": "alpha",
-  "build": 11,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.8",
-  "notes": "Architect: drag (or click) a shape from the Browser and it goes straight onto the canvas with a default name (Block-1, Block-2…, Requirement-3, Test case-1) and blank fields: no popup. Double-click it to bring it up close and fill it in.",
-  "dmg": "Dorn-Modeling-Environment-0.2.1.8.dmg",
-  "released": "2026-11-11T18:02:11.536Z"
+  "build": 12,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.9",
+  "notes": "**Security audit and fixes** (docs/SECURITY-AUDIT.md), every fix covered by `tests/security.test.ts`:",
+  "dmg": "Dorn-Modeling-Environment-0.2.1.9.dmg",
+  "sha256": "1da85bca82c5929992c370607a39b51283590983197d8dc09ab58bddefd52109",
+  "sig": "DWCbArc91/QwV2F/zf5fPHVGl1seNvFEWM6gxyLhpUaMhjG+MDna441O785r0IKx7TNz+2fb1vGNQZqy82OcCA==",
+  "released": "2026-11-11T20:19:01.891Z"
 }
