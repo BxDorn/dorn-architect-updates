@@ -1,9 +1,9 @@
 {
-  "release": "0.2.1.5",
+  "release": "0.2.1.6",
   "stage": "alpha",
-  "build": 8,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.5",
-  "notes": "Dorn Architect is now **Dorn Modeling Environment**, with a new icon (a D holding a mountain peak over water). The app is now `Dorn Modeling Environment.app`: if you install from the DMG, drag the old `Dorn Architect.app` to the Bin (updating in place, from this release on, handles a renamed app itself). Your data stays where it is.",
-  "dmg": "Dorn-Modeling-Environment-0.2.1.5.dmg",
-  "released": "2026-11-11T14:43:43.388Z"
+  "build": 9,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.6",
+  "notes": "A new user is welcomed with **Build the showcase project**: the E-Bike Share example now shows off everything added lately: a discussion that became a decision (with badges on what it affects), an open thread and a proposed decision, a formal document made from a template with one figure filled and the rest waiting, a live section and a live query table in the specification, a review of the specification in place (section verdicts and a margin comment), two diagrams generated from the model, a locked card, a structure diagram that changed since the baseline (try Compare), roadmap milestones with a scope, a wide note in Adaptive width and a saved workspace. Building it opens \"Feature tour: start here\", which ends with ten minutes of things to try.",
+  "dmg": "Dorn-Modeling-Environment-0.2.1.6.dmg",
+  "released": "2026-11-11T15:31:37.813Z"
 }
