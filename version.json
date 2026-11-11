@@ -1,9 +1,9 @@
 {
-  "release": "0.2.1.7",
+  "release": "0.2.1.8",
   "stage": "alpha",
-  "build": 10,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.7",
-  "notes": "**Getting-started tour** the first time you sign in (skip it any time; replay it from **? Guide**, Help ▸ Getting Started Tour or ⌘K): what the app is, why a model is not a set of drawings (with pictures), one model with many views, SysML and its rules, where your work is kept (the database, the change journal, sync and MCP), the modules, ⌘K, History, and the way in (the showcase or an empty project).",
-  "dmg": "Dorn-Modeling-Environment-0.2.1.7.dmg",
-  "released": "2026-11-11T17:13:19.061Z"
+  "build": 11,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.8",
+  "notes": "Architect: drag (or click) a shape from the Browser and it goes straight onto the canvas with a default name (Block-1, Block-2…, Requirement-3, Test case-1) and blank fields: no popup. Double-click it to bring it up close and fill it in.",
+  "dmg": "Dorn-Modeling-Environment-0.2.1.8.dmg",
+  "released": "2026-11-11T18:02:11.536Z"
 }
