@@ -1,9 +1,9 @@
 {
-  "release": "0.2.1.6",
+  "release": "0.2.1.7",
   "stage": "alpha",
-  "build": 9,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.6",
-  "notes": "A new user is welcomed with **Build the showcase project**: the E-Bike Share example now shows off everything added lately: a discussion that became a decision (with badges on what it affects), an open thread and a proposed decision, a formal document made from a template with one figure filled and the rest waiting, a live section and a live query table in the specification, a review of the specification in place (section verdicts and a margin comment), two diagrams generated from the model, a locked card, a structure diagram that changed since the baseline (try Compare), roadmap milestones with a scope, a wide note in Adaptive width and a saved workspace. Building it opens \"Feature tour: start here\", which ends with ten minutes of things to try.",
-  "dmg": "Dorn-Modeling-Environment-0.2.1.6.dmg",
-  "released": "2026-11-11T15:31:37.813Z"
+  "build": 10,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.7",
+  "notes": "**Getting-started tour** the first time you sign in (skip it any time; replay it from **? Guide**, Help ▸ Getting Started Tour or ⌘K): what the app is, why a model is not a set of drawings (with pictures), one model with many views, SysML and its rules, where your work is kept (the database, the change journal, sync and MCP), the modules, ⌘K, History, and the way in (the showcase or an empty project).",
+  "dmg": "Dorn-Modeling-Environment-0.2.1.7.dmg",
+  "released": "2026-11-11T17:13:19.061Z"
 }
