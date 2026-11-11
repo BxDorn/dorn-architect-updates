@@ -1,8 +1,9 @@
 {
-  "release": "0.2.1.4",
+  "release": "0.2.1.5",
   "stage": "alpha",
-  "build": 7,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.4",
-  "notes": "Atlas Modeling Lab is now **Dorn Architect**, by Dorn Labs: new name, new app icon and in-app mark (a D built from linked parts), and new release and update-feed repos. Installs of 0.2.1.3 and earlier still hear about this release through the old feed.",
-  "released": "2026-11-11T08:28:57.556Z"
+  "build": 8,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.5",
+  "notes": "Dorn Architect is now **Dorn Modeling Environment**, with a new icon (a D holding a mountain peak over water). The app is now `Dorn Modeling Environment.app`: if you install from the DMG, drag the old `Dorn Architect.app` to the Bin (updating in place, from this release on, handles a renamed app itself). Your data stays where it is.",
+  "dmg": "Dorn-Modeling-Environment-0.2.1.5.dmg",
+  "released": "2026-11-11T14:43:43.388Z"
 }
