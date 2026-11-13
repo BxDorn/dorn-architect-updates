@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.11",
+  "release": "0.2.1.12",
   "stage": "alpha",
-  "build": 14,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.11",
-  "notes": "**Model Universe** (✦ in the rail, after the Architect; Go ▸ Model Universe, Cmd+Alt+3): the whole structure of the",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.11.dmg",
-  "sha256": "41f3695229e89d82a286933264f42b2fe8d0e8e5182b3f24e31d48d15fa470dc",
-  "sig": "GUaUu0DdIZHbJJm4ud7vl/LoVyg3q/0/SZuT6fBjeU9tkF5z8RXUxam5Z1dLB9JRAsIQoeeb6DuTOrA5ade3AA==",
-  "released": "2026-11-13T04:48:07.421Z"
+  "build": 15,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.12",
+  "notes": "**Model Universe, rebuilt from scratch: the model as a mind.** Every element, requirement and test is a neuron (a",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.12.dmg",
+  "sha256": "64f7762f3f1673dbd4b49b18f5ff53d3fd6ed463e83d82c0a14dc063bfd2bb14",
+  "sig": "zeL1lrW6wKKl8O1LKSyGa5SESYQweDfqK6gvOFwq6bY5fHAzA1LSLtM4EP9aqTO+iEsOoNZsyP02mNWOES1UBg==",
+  "released": "2026-11-13T16:15:03.882Z"
 }
