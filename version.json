@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.14",
+  "release": "0.2.1.15",
   "stage": "alpha",
-  "build": 17,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.14",
-  "notes": "**Formal documents are written on the full width of the window.** The US Letter sheets in the editor are gone: pages",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.14.dmg",
-  "sha256": "d5360396263c95eccf4951ab8a28d05aa7db382874f3045543484229a9424be4",
-  "sig": "8c60hRfZmsIUfJ5vXMUIFQqa7hivtX4NM3+M3QolVFuqbNnC+Ze0m1AdSRMGcEkJ+70VmZP7ohHOS5MFfxuGDw==",
-  "released": "2026-11-13T23:13:29.096Z"
+  "build": 18,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.15",
+  "notes": "**The margin is a column of its own beside the page** (it used to hang off the text, so on a full-width document it",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.15.dmg",
+  "sha256": "1ae2c6cc9ca4085e12049e354b4e1fb5fc57c27a3675469dcc828798b174baba",
+  "sig": "FHo+tdVyeCga7XpedT4q8/bI8wRh0Sa09KICP2Ptsz5XETgRQBjOP+SUCZF2YiwrcI5m1oVCG05amnxSZw0nBg==",
+  "released": "2026-11-13T23:37:04.556Z"
 }
