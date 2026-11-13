@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.10",
+  "release": "0.2.1.11",
   "stage": "alpha",
-  "build": 13,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.10",
-  "notes": "The product is now **Dorn Systems Modeling Environment**, by **Dorn Modeling** (was Dorn Modeling Environment by Dorn Labs). The app is `Dorn Systems Modeling Environment.app`; installing it replaces the old app and its Desktop shortcut. Your data stays where it is.",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.10.dmg",
-  "sha256": "c06fd1301729f37c78d1f904692e45100c96a11325cec2d8c64652ffc2dd3813",
-  "sig": "Mi0O03Kx1Z53Xbky4Qg5ND/hBidfRCYDycgccGq+6GeKgWPFXZTGBIo6FsV3xuFvd3BRdjsxAyZvyrDMXVOWAQ==",
-  "released": "2026-11-11T22:24:26.987Z"
+  "build": 14,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.11",
+  "notes": "**Model Universe** (✦ in the rail, after the Architect; Go ▸ Model Universe, Cmd+Alt+3): the whole structure of the",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.11.dmg",
+  "sha256": "41f3695229e89d82a286933264f42b2fe8d0e8e5182b3f24e31d48d15fa470dc",
+  "sig": "GUaUu0DdIZHbJJm4ud7vl/LoVyg3q/0/SZuT6fBjeU9tkF5z8RXUxam5Z1dLB9JRAsIQoeeb6DuTOrA5ade3AA==",
+  "released": "2026-11-13T04:48:07.421Z"
 }
