@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.13",
+  "release": "0.2.1.14",
   "stage": "alpha",
-  "build": 16,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.13",
-  "notes": "**Test plans and test runs** (Requirements ▸ Testing): a plan of test cases for a milestone, runs against a build, a",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.13.dmg",
-  "sha256": "34663b033b61789b8fc6c0b8dde4c10e936a694d652e35155c60e907409d9221",
-  "sig": "JiC2taj+JHVcisJVc1y8wHHGSPm9vDmsofCDPs63jbOQfwrD9lg8c77U3XHXWZ7DzerMI6aICvS0OysnwdkHCQ==",
-  "released": "2026-11-13T20:07:34.394Z"
+  "build": 17,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.14",
+  "notes": "**Formal documents are written on the full width of the window.** The US Letter sheets in the editor are gone: pages",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.14.dmg",
+  "sha256": "d5360396263c95eccf4951ab8a28d05aa7db382874f3045543484229a9424be4",
+  "sig": "8c60hRfZmsIUfJ5vXMUIFQqa7hivtX4NM3+M3QolVFuqbNnC+Ze0m1AdSRMGcEkJ+70VmZP7ohHOS5MFfxuGDw==",
+  "released": "2026-11-13T23:13:29.096Z"
 }
