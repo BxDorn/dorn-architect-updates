@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.12",
+  "release": "0.2.1.13",
   "stage": "alpha",
-  "build": 15,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.12",
-  "notes": "**Model Universe, rebuilt from scratch: the model as a mind.** Every element, requirement and test is a neuron (a",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.12.dmg",
-  "sha256": "64f7762f3f1673dbd4b49b18f5ff53d3fd6ed463e83d82c0a14dc063bfd2bb14",
-  "sig": "zeL1lrW6wKKl8O1LKSyGa5SESYQweDfqK6gvOFwq6bY5fHAzA1LSLtM4EP9aqTO+iEsOoNZsyP02mNWOES1UBg==",
-  "released": "2026-11-13T16:15:03.882Z"
+  "build": 16,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.13",
+  "notes": "**Test plans and test runs** (Requirements ▸ Testing): a plan of test cases for a milestone, runs against a build, a",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.13.dmg",
+  "sha256": "34663b033b61789b8fc6c0b8dde4c10e936a694d652e35155c60e907409d9221",
+  "sig": "JiC2taj+JHVcisJVc1y8wHHGSPm9vDmsofCDPs63jbOQfwrD9lg8c77U3XHXWZ7DzerMI6aICvS0OysnwdkHCQ==",
+  "released": "2026-11-13T20:07:34.394Z"
 }
