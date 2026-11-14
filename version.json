@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.18",
+  "release": "0.2.1.19",
   "stage": "alpha",
-  "build": 21,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.18",
-  "notes": "**Darker paper.** The blueprint behind every lens and the Model Universe is a dark blue, so the drawing stands out.",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.18.dmg",
-  "sha256": "3e98f8c37277d7ff124279870e0b893131d1c57fbc935b4a584a5e20ada8906e",
-  "sig": "2EaskfLCY+t2CsEOXdHFj7Ha5NaIqv1jPRjcUxzzsRuwY937Rr0ZF3Atwx20J9KTXmgmRpe6vbKUOA+V+Q8bBg==",
-  "released": "2026-11-14T19:16:41.073Z"
+  "build": 22,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.19",
+  "notes": "The paper behind every lens and the Model Universe is now a very dark navy (and the panels, Inspector and time bar",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.19.dmg",
+  "sha256": "596c312f5044aa81a9485546eb91b0ea300d23b518ee3cbd1807896fec5e5a4f",
+  "sig": "fQgbaHPkULaSQ7gjjiOGFpm+6mkRZC6jaErTNpcd4skdqrH9m7m6R8CyYsaHPSgATQF1qpU82vypgId9KZvYCQ==",
+  "released": "2026-11-14T19:22:53.345Z"
 }
