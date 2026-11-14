@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.16",
+  "release": "0.2.1.18",
   "stage": "alpha",
-  "build": 19,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.16",
-  "notes": "**No more brain.** The Universe is the system as SysML has it, laid out in 3-D: elements, relationships and pillars",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.16.dmg",
-  "sha256": "fc6a19cdee75c6f97cb32221ee03b3c59d6f611cdd7a8d719a992204755efcc5",
-  "sig": "Cs5LtMYfafl5fKODhxs3OjiNfCNcsYbGcvHRUDw/PY1FDHLs3MkpYFDeXPOCGpc/23bj+pop+K+OYw/ZGT6HAw==",
-  "released": "2026-11-14T00:01:21.458Z"
+  "build": 21,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.18",
+  "notes": "**Darker paper.** The blueprint behind every lens and the Model Universe is a dark blue, so the drawing stands out.",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.18.dmg",
+  "sha256": "3e98f8c37277d7ff124279870e0b893131d1c57fbc935b4a584a5e20ada8906e",
+  "sig": "2EaskfLCY+t2CsEOXdHFj7Ha5NaIqv1jPRjcUxzzsRuwY937Rr0ZF3Atwx20J9KTXmgmRpe6vbKUOA+V+Q8bBg==",
+  "released": "2026-11-14T19:16:41.073Z"
 }
