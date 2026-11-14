@@ -1,11 +1,11 @@
 {
-  "release": "0.2.1.15",
+  "release": "0.2.1.16",
   "stage": "alpha",
-  "build": 18,
-  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.15",
-  "notes": "**The margin is a column of its own beside the page** (it used to hang off the text, so on a full-width document it",
-  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.15.dmg",
-  "sha256": "1ae2c6cc9ca4085e12049e354b4e1fb5fc57c27a3675469dcc828798b174baba",
-  "sig": "FHo+tdVyeCga7XpedT4q8/bI8wRh0Sa09KICP2Ptsz5XETgRQBjOP+SUCZF2YiwrcI5m1oVCG05amnxSZw0nBg==",
-  "released": "2026-11-13T23:37:04.556Z"
+  "build": 19,
+  "url": "https://github.com/BxDorn/dorn-architect/releases/tag/v0.2.1.16",
+  "notes": "**No more brain.** The Universe is the system as SysML has it, laid out in 3-D: elements, relationships and pillars",
+  "dmg": "Dorn-Systems-Modeling-Environment-0.2.1.16.dmg",
+  "sha256": "fc6a19cdee75c6f97cb32221ee03b3c59d6f611cdd7a8d719a992204755efcc5",
+  "sig": "Cs5LtMYfafl5fKODhxs3OjiNfCNcsYbGcvHRUDw/PY1FDHLs3MkpYFDeXPOCGpc/23bj+pop+K+OYw/ZGT6HAw==",
+  "released": "2026-11-14T00:01:21.458Z"
 }
